@@ -2,7 +2,6 @@ package com.dailycodebuffer.departmentservice.repo;
 
 import com.dailycodebuffer.departmentservice.model.Department;
 import org.springframework.stereotype.Repository;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.ArrayList;
 import java.util.List;
